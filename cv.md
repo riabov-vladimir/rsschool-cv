@@ -36,7 +36,9 @@ def rotate_pattern(self):
 # Education
 
 * **Moscow State Academy of Fine Chemical Technology**
-* **Netology: Python from zero to Django APP**
+    * Chemical technologist-engineer (2005-2008)
+* **Netology**
+    *  Python from zero to Django APP (2020)
 
 
 # Languages
